@@ -2,6 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
+port: 4444
+
 # Name of your site (displayed in the header)
 name: Michael Feldman
 
@@ -9,7 +11,7 @@ name: Michael Feldman
 description: Software Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/mikefeldmangh/mikefeldmangh.github.io/master/images/mike_profile.jpg
 
 #
 # Flags below are optional
@@ -18,16 +20,16 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: 
-  facebook: 
+  email: mikesinbox111@gmail.com
+  facebook: michael.feldman.5473
   flickr: 
-  github: barryclark/jekyll-now
+  github: mikefeldmangh
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: mikfel
+  stackoverflow: users/1998151/mike-f
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
