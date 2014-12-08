@@ -29,7 +29,7 @@ Third, when I got the most recent estimate, my installer told me there was a sal
 ## The HOA Fight ##
 My community is relatively new. I think the first residents moved in around 2007 or 2008. And it's small, about 200 homes. The community standards guide didn't mention solar at all. So I put in an application. I expected to get an approval fairly quickly like my other change applications. But since my house faces south, the panels would be on the front of my house. The board took a long time to make a decision delaying the installation by a few weeks. They were checking with their lawyers about whether they could say no or if they could ask me to move the panels. They had a lot of other more minor questions like "Could the panels be painted?".
 
-[![P1030826.JPG](https://raw.githubusercontent.com/mikefeldmangh/mikefeldmangh.github.io/master/images/P1030826.jpg)](https://raw.githubusercontent.com/mikefeldmangh/mikefeldmangh.github.io/master/images/P1030826.jpg)
+[![P1030826.JPG](https://raw.githubusercontent.com/mikefeldmangh/mikefeldmangh.github.io/master/images/P1030826.JPG)](https://raw.githubusercontent.com/mikefeldmangh/mikefeldmangh.github.io/master/images/P1030826.JPG)
 *All of the equipment in my garage waiting for HOA approval*
 
 My installer and I were under the impression that the HOA could not prohibit me from installing solar panels because of Virginia code about [covenants regarding solar power](http://vacode.org/67-701/).
