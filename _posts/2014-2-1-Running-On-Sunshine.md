@@ -29,7 +29,7 @@ Third, when I got the most recent estimate, my installer told me there was a sal
 ## The HOA Fight ##
 My community is relatively new. I think the first residents moved in around 2007 or 2008. And it's small, about 200 homes. The community standards guide didn't mention solar at all. So I put in an application. I expected to get an approval fairly quickly like my other change applications. But since my house faces south, the panels would be on the front of my house. The board took a long time to make a decision delaying the installation by a few weeks. They were checking with their lawyers about whether they could say no or if they could ask me to move the panels. They had a lot of other more minor questions like "Could the panels be painted?".
 
-[![P1030826.JPG](https://d23f6h5jpj26xu.cloudfront.net/qrvtpzyqtrdjpa_small.jpg)](http://img.svbtle.com/qrvtpzyqtrdjpa.jpg)
+[![P1030826.JPG]({{ site.baseurl }}/images/P1030826.jpg)]({{ site.baseurl }}/images/P1030826.jpg)
 *All of the equipment in my garage waiting for HOA approval*
 
 My installer and I were under the impression that the HOA could not prohibit me from installing solar panels because of Virginia code about [covenants regarding solar power](http://vacode.org/67-701/).
@@ -44,7 +44,7 @@ They finally gave me approval during a special board meeting. But after that the
 ## Installation ##
 Installation started a couple days after the HOA approval.  The day after they started we were off on vacation to the beach for a week. The installation continued while we were away but was slow-going because of the heat and storms. They kept me up to date with text messages and pictures. The roof temperature was 160 to 170 degrees at times. That's one job I'm not envious of but I'm thankful there are people who do it. 
 
-[![IMG_0866_copy-2.jpg](https://d23f6h5jpj26xu.cloudfront.net/7oyutrbenpsomw_small.jpg)](http://img.svbtle.com/7oyutrbenpsomw.jpg)
+[![IMG_0866_copy-2.jpg]({{ site.baseurl }}/images/IMG_0866_copy-2.jpg)]({{ site.baseurl }}/images/IMG_0866_copy-2.jpg)
 
 The panels were all installed that week while we were on vacation. Then we had to wait for the electrician to have an opening so he could hook everything up. That was also delayed a little because I was still trying to decide whether to participate in the Solar Purchase Program. That decision would dictate what kind of meters I would need and how the wiring would be done. A couple weeks after the panels were up they finally started producing electricity after all the work was done. 
 
@@ -58,11 +58,11 @@ My installer told me the inspections are usually no big deal since the inspector
 ## Operation ##
 For a while almost everyday I would go out and check the electric meter. Before they installed my digital net meter I would just look to see if it was spinning backwards. After I got my net meter I would check if the net amount had gone up or down since the previous day. That went on until it started getting too cold out or too dark when I got home. I still check how much energy the panels have produced on the [Enphase website](https://enphase.com/enlighten/). That is the company that makes the most popular micro inverters for solar panels. The site is pretty nice. You can see which days were cloudy or clear. Here's one view of my system this past week.
 
-[![enphase_screen.jpg](https://d23f6h5jpj26xu.cloudfront.net/uctuhaqkxcrdag_small.jpg)](http://img.svbtle.com/uctuhaqkxcrdag.jpg)
+[![enphase_screen.jpg]({{ site.baseurl }}/images/enphase_screen.jpg)]({{ site.baseurl }}/images/enphase_screen.jpg)
 
 My usage of electricity from the grid has gone down. Here's the graph from my utility web page. The system went live in July. You can see usage go way down. It has gone up some since because the weather has not been great and I also have an electric car now which needs to be charged. More on that another time.
 
-[![dom_usage.jpg](https://d23f6h5jpj26xu.cloudfront.net/hw3ihtclyoyqg_small.jpg)](http://img.svbtle.com/hw3ihtclyoyqg.jpg)
+[![dom_usage.jpg]({{ site.baseurl }}/images/dom_usage.jpg)]({{ site.baseurl }}/images/dom_usage.jpg)
 
 ## SRECs Can Save You More Money ##
 An [SREC](http://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate), or Solar Renewable Energy Certificate, represents each 1000 kilowatt-hours of electricity your system generates. It can be sold in various markets around the country. Depending on what state you are in, you may or may not be able to sell your SRECs. Each market has different prices for the certificates. Here in Virginia, I can participate in the Pennsylvania SREC market. But the prices are very low compared to others. 
