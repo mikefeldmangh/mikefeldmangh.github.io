@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A (Not So Good?) Solution For A Complex Or In A Rails Scope
+title: A Solution For A Complex Or In A Rails Scope
 ---
 
-In my Ruby on Rails side project, I've been using the [Filterrific gem](https://github.com/jhund/filterrific) for filtering. And it's been terrific. But then I had to add a new filter and I just couldn't figure out how to get it to work. I searched online for a few days and found little things that helped me in the end but nothing that fit just right so I'm writing about what I came up with in the event it might help others.
+In my Ruby on Rails side project, I've been using the [Filterrific gem](https://github.com/jhund/filterrific) for filtering. And it's been terrific. But then I had to add a new filter and I just couldn't figure out how to get it to work. I searched online for a few days and found little things that helped me in the end but nothing that fit just right so I'm writing about what I came up with in the event it might help others. It's probably not the best solution but it works.
 
 ## Models
 

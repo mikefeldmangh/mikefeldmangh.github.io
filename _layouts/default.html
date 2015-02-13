@@ -17,6 +17,10 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
+    {% if page.flattrable != null %}
+      <link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fmikefeldmangh.github.io{{ page.url | cgi_escape }}&amp;user_id=mikefeldman&amp;title={{ page.title | cgi_escape }}&amp;category=text&amp;tags=blog" title="Flattr this post" />
+    {% endif %}
+
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
@@ -52,5 +56,14 @@
     </div>
 
     {% include analytics.html %}
+    <script type="text/javascript">
+      (function() {
+        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = '//api.flattr.com/js/0.6/load.js?mode=auto&button=compact&uid=mikefeldman&category=text';
+        t.parentNode.insertBefore(s, t);
+      })();
+    </script>
   </body>
 </html>
