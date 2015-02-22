@@ -12,7 +12,7 @@ Here are few quick bullet points about me in no particular order:
 * I am an avid amateur photographer. 
 * I am passionate about the environment and clean energy. 
 
-I'll be writing about any of my interests here. Maybe some of it will interest someone else as well.
+Many of my posts here will be my [lessons learned starting a business for my side project]({{ site.baseurl }}/Intro-To-Lessons/). And I'll also be writing about my other interests. Maybe some of it will interest someone else as well.
 
 
 ### Contact me
