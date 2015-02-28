@@ -8,3 +8,5 @@ I've been a software developer for more than 17 years. Most of that has been wit
 That sounds kind of like the intro to Law and Order. "These are my stories." Dun Dun!
 
 [Lesson 1 - Should You Tell People About Your Idea?]({{ site.baseurl }}/Lesson-Secret-Idea/)
+
+[Lesson 2 - Things Change]({{ site.baseurl }}/Lesson-Things-Change/)
