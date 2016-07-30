@@ -93,6 +93,9 @@ There are also other types of financing available in some states.
 ## Get Solar Without Installing It ##
 If you don't have your own roof or land where you can install solar there may be other options for you if you want to make your electricity use greener or if you just want to invest. Community solar power is popping up in some areas. In certain places that allow it, participating in or starting a "Solar Garden" might be an option. You don't have the panels on your roof but you own the panels where they are installed and the electricity generated goes towards your bill. If you just want to invest in solar projects being installed elsewhere and get a return, look at [Mosaic](https://joinmosaic.com). And [Solar City](http://www.solarcity.com) has stated they will be doing the same thing.
 
+## Learning More ##
+This is an update to my original blog post added on 7/29/16. One good source to learn more about solar is [Solar Action Alliance](https://solaractionalliance.org).
+
 ## Final Thoughts ##
 Choose your installer carefully. Be prepared to be patient. It probably won't happen overnight. But I think if you get a solar system, you'll be happy with it. Finally, a piece of advice I've seen on many sites. Reduce your electricity use as much as you can before getting solar so you don't have to buy a bigger system than you need. Change your bulbs, get more efficient appliances if possible, etc.
 

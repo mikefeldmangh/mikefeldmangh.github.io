@@ -11,7 +11,7 @@ name: Michael Feldman
 description: Software Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/mikefeldmangh/mikefeldmangh.github.io/master/images/mike_profile.jpg
+avatar: https://raw.githubusercontent.com/mikefeldmangh/mikefeldmangh.github.io/master/images/onMountainSquareCropped.jpg
 
 #
 # Flags below are optional
@@ -52,7 +52,7 @@ baseurl: ""
 #
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
