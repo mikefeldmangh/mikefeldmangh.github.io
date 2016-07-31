@@ -12,7 +12,9 @@ Here are few quick bullet points about me in no particular order:
 * I am an avid amateur photographer. 
 * I am passionate about the environment and clean energy. 
 
-Many of my posts here will be my [lessons learned starting a business for my side project]({{ site.baseurl }}/Intro-To-Lessons/). And I'll also be writing about my other interests. Maybe some of it will interest someone else as well.
+Most of the advice I have read about how to get more blog readers says to keep to one topic or theme in your blog. Well I'm throwing that out the window because I want to write about more than one thing. I'm not expecting to get a lot of readers anyway.
+
+Many of my posts here will be my [lessons learned starting a business for my side project]({{ site.baseurl }}/Intro-To-Lessons/). But there will also be posts related to my other interests: photography, software and clean energy. Maybe some of it will interest someone else as well.
 
 
 ### Contact me
