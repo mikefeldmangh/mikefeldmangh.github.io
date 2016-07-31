@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Things Change - A Side Project Lesson Learned
+category: side
 ---
 
 Change is inevitable. Be prepared to be flexible. Sometimes it's because you or someone else comes up with a better idea. Sometimes it's out of necessity. Here are three examples where I have had to be flexible with my side project.

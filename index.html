@@ -2,17 +2,20 @@
 layout: default
 ---
 
+<p>
+<a href="{{ site.baseurl }}/photo.html">Photography</a> |
+<a href="{{ site.baseurl }}/side.html">Side Projects</a> |
+<a href="{{ site.baseurl }}/cleanenergy.html">Clean Energy</a>
+</p>
+
+<h3>Archive</h3>
+
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">    
+  	<article>    
       
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.content | truncatewords:40}}
-      </div>
+      <p><span class="date">{{ post.date | date: "%Y-%m-%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">  {{ post.title }}</a></p>
       
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>

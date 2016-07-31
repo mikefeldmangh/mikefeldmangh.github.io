@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Running on Sunshine
+category: cleanenergy
 ---
 
 You can learn everything about installing solar PV panels from other sources. And you definitely should do that. I just thought I'd write about my experience all in one place. Maybe something here will answer a question you have or inspire you to look into the possibility yourself. 

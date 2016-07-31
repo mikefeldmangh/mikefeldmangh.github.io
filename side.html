@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<p>
+<a href="{{ site.baseurl }}/">All</a> |
+<a href="{{ site.baseurl }}/photo.html">Photography</a> |
+<a href="{{ site.baseurl }}/cleanenergy.html">Clean Energy</a>
+</p>
+
+<div class="posts">
+  <h1>Side Projects</h1>
+  {% for post in site.posts %}
+  	{% if post.category == "side" %}
+    <article class="post">    
+      
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+      <div class="entry">
+        {{ post.content | truncatewords:30}}
+      </div>
+      
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+    {% endif %}
+  {% endfor %}
+</div>

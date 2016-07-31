@@ -1,0 +1,25 @@
+      
+    # vote_join = issue_table[:id].eq(vote_table[:issue_id])
+    # vote_join = join(vote_table).on(issue_table[:id].eq(vote_table[:issue_id]))
+
+    issues_voted_on_relation = vote_table[:user_id].eq(user_id)
+    
+    # vote_types_relation = issues_voted_on_relation.joins(vote_table).on(issue_table[:id].eq(vote_table[:issue_id])).and(vote_table[:value].in [*votes])
+    vote_types_relation = issue_table[:id].in(issue_table.project(issue_table[:id]).join(vote_table).on(issue_table[:id].eq(vote_table[:issue_id])).where(issues_voted_on_relation.and(vote_table[:value].in [*votes])))
+
+    no_vote_relation = issue_table[:id].not_in(issue_table.project(issue_table[:id]).join(vote_table).on(issue_table[:id].eq(vote_table[:issue_id])).where(issues_voted_on_relation))
+    
+    binding.pry
+    
+    # where(
+    #   Issue \
+        where(no_vote_relation.or(vote_types_relation))
+        # where(vote_types_relation)
+        # .where(issue_table.join(vote_table).on(issue_table[:id].eq(vote_table[:issue_id])) \
+        # .where(vote_table[:user_id].eq(user_id)))
+          # .and(vote_table[:value].in([*votes]))))
+        # .where(no_vote_relation.or(vote_types_relation))
+        # .where(vote_types_relation)
+        
+    # )
+  }

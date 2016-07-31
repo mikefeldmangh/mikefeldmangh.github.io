@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Should You Tell People About Your Idea?
+category: side
 ---
 
 After I first thought of my idea, I kept it a secret for a long time. I was afraid of someone stealing it so I only told the people really close to me. Like many other people I thought I had a million dollar idea. I didn't and you probably don't either. And people probably won't steal it. I'm not saying you should never keep your idea a secret. You need to decide for yourself what the risks are. Even after reading this same advice on other blogs, I was still nervous about letting the cat out of the bag.
