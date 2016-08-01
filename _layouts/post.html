@@ -4,14 +4,16 @@ flattrable: true
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
-
+  <div class="date">
+    {{ page.date | date: "%B %e, %Y" }}
+  </div>
+	<h1>{{ page.title }}</h1>
+  
   <div class="entry">
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}<br/>
+  <div>
     <a class="FlattrButton" href="http://mikefeldmangh.github.io{{ page.url }}" title="{{ page.title }}" rel="flattr;tags:blog;"></a>
   </div>
 
