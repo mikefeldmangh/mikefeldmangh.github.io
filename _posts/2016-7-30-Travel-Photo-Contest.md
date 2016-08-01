@@ -10,6 +10,8 @@ I am trying to decide which photo to use for an online contest. The deadline is 
 
 Normally it's not that difficult to choose but "travel photography" is very broad so it leaves a lot open. The only restriction is that the photo was taken after July 31, 2015. And the only travel I did with decent photos since then was in Europe so here's a few of my favorites I'm choosing from. Maybe I'll add a litle more details about the photos later.
 
+**UPDATE (7/31/16 9:42PM)** I went with #3 since that one had the biggest response in Facebook comments. One interesting thing is that they closed the contest a few hours too early. I was able to submit my photo because I still had the page with the form open. But when going back there it says the contest is closed. Some others never got to submit a photo. I sent a tweet to them complaining. Maybe they will reopen the contest and keep it open longer.
+
 [![IMG_0775-Edit.jpg]({{ site.baseurl }}/images/IMG_0775-Edit.jpg)]({{ site.baseurl }}/images/IMG_0775-Edit.jpg)\\
 *1. Dyrholaey, Iceland*
 
