@@ -25,7 +25,13 @@ I started considering the Volt since they came out with their all new model. It 
 So I test drove the 2016 Volt and I liked it a lot. Yes I would have to do a little more maintenance but I would be able to save more gas. I made my decision. Then I just had to go through the annoyance of shopping around at dealerships and negotiating. This time I purchased instead of leasing since the deal wasn't as good and honestly I hated having the deadline looming over me.
 
 Now I have my blue 2016 Volt and I like it a lot. Having an American car took some getting used to. Almost all of the controls are backwards from Japanese cars. But now I can drive it to my parents' house, about 85 miles away. It drives very much like the LEAF did. I just passed 3000 miles and I've only filled the gas tank twice.
+[picture]
 
 Because it has less electric-only range (only about 55 miles compared to 80), I decided to install EVSE (Electric Vehicle Service Equipment) in the garage so I can charge the car in the middle of the day quickly if I need to.
+
+[picture]
+
+I had to get an electrician to add a new 240 volt circuit and run the wire from the panel in the basement up to the garage. There are a lot of EVSEs out there and some have come down in price. I decided on the [EVoCharge EVSE 30 Amp (7.2 kW) Level 2 EV Charger](https://www.evocharge.com/product/30a-evocharge-evse.html) based on reviews online. So far I haven't had any problems. It works great.
+[picture]  
 
 I think I'll probably keep this car more than five years. It will be nice to not have a car payment after that. But I'm keeping an eye on the Chevy Bolt or the Tesla Model 3 which both will have a range exceeding 200 miles. 
