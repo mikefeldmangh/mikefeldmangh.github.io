@@ -6,7 +6,7 @@ category: photo
 
 This is a post in a series related to [One Man's Trash...]({{ site.baseurl }}/One-Mans-Trash)
 
-I used this plastic model fnishing kit when I was a kid. I'll just leave it at that. We don't need to say how long ago that was. I don't need it anymore but there are some useful things in there. Even the enamel paints might still be usable. I tried giving it away for free on a Facebook group but I had no takers.
+I used this plastic model finishing kit when I was a kid. I'll just leave it at that. We don't need to say how long ago that was. I don't need it anymore but there are some useful things in there. Even the enamel paints might still be usable. I tried giving it away for free on a Facebook group but I had no takers.
 
 ![DSCF9671.jpg]({{ site.baseurl }}/images/DSCF9671.jpg)
 
