@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One Man's Trash 
+title: One Man's Trash...
 category: photo
 ---
 
